@@ -1,0 +1,160 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Master Bagshaw his worthy speech in Parliament, Febr, 18. 1641. Concerning the passing of a bill, for the disarming of the papists within this kingdome.</title>
+            <author>Bagshaw, Edward, d. 1662.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A77194</idno>
+            <idno type="STC">Wing B402</idno>
+            <idno type="STC">Thomason E200_32</idno>
+            <idno type="STC">ESTC R11666</idno>
+            <idno type="EEBO-CITATION">99859099</idno>
+            <idno type="PROQUEST">99859099</idno>
+            <idno type="VID">157572</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A77194)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 157572)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 35:E200[32])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Master Bagshaw his worthy speech in Parliament, Febr, 18. 1641. Concerning the passing of a bill, for the disarming of the papists within this kingdome.</title>
+                  <author>Bagshaw, Edward, d. 1662.</author>
+                  <author>England and Wales. Parliament. House of Commons.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by T.F. for J. Thomas,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1641. [i.e. 1642]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A⁴.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catholics --  England --  Legal status --  Early works to 1800.</term>
+               <term>Weapons --  England --  Law and legislation --  Early works to 1800.</term>
+               <term>Armor --  England --  Law and legislation --  Early works to 1800.</term>
+               <term>Speeches, addresses, etc., English --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-01</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2013-01</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:157572:1"/>
+            <pb facs="tcp:157572:1" rendition="simple:additions"/>
+            <p>MASTER BAGSHAW HIS WORTHY SPEECH In Parliament, <hi>Febr.</hi> 18. 1641.</p>
+            <p>Concerning the paſsing of a Bill, for the diſarming of the Papiſts within this Kingdome.</p>
+            <p>LONDON, Printed by <hi>T. F.</hi> for <hi>J. Thomas,</hi> 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="speech">
+            <pb facs="tcp:157572:2"/>
+            <pb facs="tcp:157572:2"/>
+            <head>A Speech made in Parliament by Mr. <hi>Bagſhaw,</hi> Concerning the Bill paſſed for the diſarming of Papiſts the 17. of <hi>February,</hi> 1641.</head>
+            <opener>
+               <salute>Mr. <hi>Speaker,</hi>
+               </salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>His Bill was Voted and paſ<g ref="char:EOLhyphen"/>ſed by this Honorable houſe for the diſarming of Papiſts, and confining them to ſe<g ref="char:EOLhyphen"/>verall places of ſafe cuſto<g ref="char:EOLhyphen"/>dy diſtant from their ſeverall places of habitation, I conceive will prove to be the determination of all Plots and Conſpira<g ref="char:EOLhyphen"/>cies privately or publikely in agitation by thoſe of that Faction cofavourers thereof, that notwithſtanding their ma<g ref="char:EOLhyphen"/>lice and malignant endeavours be not by the ſame extinguiſhed and diverted, yet thereby the opportunity of putting in execution their deſignes, is quite taken away.</p>
+            <pb facs="tcp:157572:3"/>
+            <p>
+               <hi>Mr. Speaker.</hi>
+            </p>
+            <p>The diſtractions and Troubles rayſed in this State by that party, hath neceſſi<g ref="char:EOLhyphen"/>tated this Bill for their diſarming and confinement; There is no force ſo weak but vpon advantage and ſit opportunity it may doe miſchiefe to its adverſaries, no man ſo cowardly, but fit his diſpoſition according to his mind, whereof he may conceive himſelfe out of danger in act<g ref="char:EOLhyphen"/>ing any deſigne, but he will be as ready as the moſt valianteſt to put the ſame in Execution; There is no man what ever he be if of an Evill and diſaffected Spirit either to his King or Country, although to the outward view never ſo cautious of offence, never ſo conformable to the Lawes and Statutes of the Kingdome, but if an opportunity at any time be ob<g ref="char:EOLhyphen"/>tained, will ſhew what in him lyes by his outward Actions the ſecret intentions of his heart formerly harbored privately in his breaſt,</p>
+            <p>
+               <hi>Mr. Speaker,</hi>
+            </p>
+            <p>All men know, or at leaſt may know if they will, that are of any judgement, or have but reaſonable underſtanding,
+<pb facs="tcp:157572:3"/>the good Lawes and Ordinances of this Kingdome that have beene made and e<g ref="char:EOLhyphen"/>nacted againſt Papiſts Recuſants, And that during the time of their due Execu<g ref="char:EOLhyphen"/>tion in the Raigne of Queene <hi>Elizabeth;</hi> and King. <hi>James</hi> of bleſſed Memorie. The evill Spirits of that Faction that were al<g ref="char:EOLhyphen"/>wayes plotting and deviſing miſchiefe a<g ref="char:EOLhyphen"/>gainſt the State and the very perſons of the godly and wiſe Princes thereof, but by the ſame they have beene prevented &amp; all theſe practizes brought to nought, And that ſince the remiſneſſe of Evill Officers to whom the Execution of theſe Lawes was intruſted in Executing the ſame to what a head and impudent bold<g ref="char:EOLhyphen"/>neſſe that faction is increaſed; Is it not then time to beware of them, and by confirmation of the Ancient Lawes of this Kingdome, by this preſent and more then needfull Parliament, and ſuch Or<g ref="char:EOLhyphen"/>der taken that they may be duely Execu<g ref="char:EOLhyphen"/>ted, that ſuch Officers and Miniſters of State may be choſen for that porpoſe as may faithfully diſcharge their Duties therein, in conſcience towards God, whoſe cauſe they have vndertaken, to defend in
+<pb facs="tcp:157572:4"/>dutifull obedience to their undoubted and lawfull Soveraigne, and integrity and duty to their Country, of which they are Members.</p>
+            <p>
+               <hi>Mr. Speaker,</hi>
+            </p>
+            <p>We ſee to what height that party is growne in <hi>Ireland</hi> for want of timely prevention, by putting the Lawes in ex<g ref="char:EOLhyphen"/>ecution againſt them in that Kingdome, while they were but weake in ſtrength and power, we ſee the daily cruelties by them exerciſed againſt the Proteſtants that they overcome. Their impudent and altogether unreaſonable Demands to the State and Councell there, And can it o<g ref="char:EOLhyphen"/>therwiſe be conceived, that if they be not here in this Kingdome timely prevented that they will not grow to the like height, doe the like actions, and worke the like deſtruction to this State as of that, And ſurely their Spirits are all a<g ref="char:EOLhyphen"/>like, and when opportunity fits the ſame, there is no truſting that Faction nor any adherents thereunto.</p>
+            <pb facs="tcp:157572:4"/>
+            <p>
+               <hi>Mr. Speaker.</hi>
+            </p>
+            <p>Is it likely, ſo long as the Grand Au<g ref="char:EOLhyphen"/>thors of all miſchiefe, the Prieſts and Ie<g ref="char:EOLhyphen"/>ſuits, reſident in any parts of this King<g ref="char:EOLhyphen"/>dome be not ſearched out, and executed according to the Lawes, or baniſhed for ever, that this State can be ſafe or ſecure from their wicked Stratagems and divi<g ref="char:EOLhyphen"/>liſh practizes, no ſurely; Therefore let not time be protracted in expediting this Bill, by conſent of both Houſes, and preſented to his Majeſty, for his Royall aſſent therevnto, and that the Lawes we now make and confirme may be ſpeedi<g ref="char:EOLhyphen"/>ly with ſeverity put in Execution; Their practizes with forraign States is not like<g ref="char:EOLhyphen"/>ly to be wanting whole Eyes have ever beene watching to deſtroy this our little <hi>Jſrael,</hi> The Pope we may have iuſt cauſe to ſuſpect will now bend all his wits and policy to defend his owne cauſe which his ſervants have vndertaken, and wofull experience hath made it too ma<g ref="char:EOLhyphen"/>nifeſt, what bloody and cruell Warres
+<pb facs="tcp:157572:5"/>hath by their meanes beeone raiſed in for<g ref="char:EOLhyphen"/>mer times, not onely in the King of <hi>Eng<g ref="char:EOLhyphen"/>lands</hi> Dominions, but even over the whole Chriſtian World, and I believe? Nay it is too apparant, his malice ſtill re<g ref="char:EOLhyphen"/>maines againſt Chriſt and his true Reli<g ref="char:EOLhyphen"/>gion, which God in his good time reſtore in all his Majeſties Kingdomes to its anci<g ref="char:EOLhyphen"/>ent height and glorie.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
